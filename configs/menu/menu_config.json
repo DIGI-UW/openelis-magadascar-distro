@@ -5,31 +5,6 @@
       "childMenus": []
     },
     {
-      "elementId": "menu_generic_sample",
-      "childMenus": [
-        {
-          "elementId": "menu_generic_sample_order",
-          "childMenus": []
-        },
-        {
-          "elementId": "menu_generic_sample_edit",
-          "childMenus": []
-        },
-        {
-          "elementId": "menu_generic_sample_import",
-          "childMenus": []
-        },
-        {
-          "elementId": "menu_generic_sample_results",
-          "childMenus": []
-        },
-        {
-          "elementId": "menu_sample_management",
-          "childMenus": []
-        }
-      ]
-    },
-    {
       "elementId": "menu_sample",
       "childMenus": [
         {
@@ -514,10 +489,6 @@
     },
     {
       "elementId": "menu_aliquot",
-      "childMenus": []
-    },
-    {
-      "elementId": "menu_notebook",
       "childMenus": []
     },
     {
