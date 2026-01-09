@@ -85,19 +85,6 @@
       ]
     },
     {
-      "elementId": "menu_storage",
-      "childMenus": [
-        {
-          "elementId": "menu_storage_management",
-          "childMenus": []
-        },
-        {
-          "elementId": "menu_freezer_monitoring",
-          "childMenus": []
-        }
-      ]
-    },
-    {
       "elementId": "menu_nonconformity",
       "childMenus": [
         {
@@ -136,18 +123,6 @@
       ]
     },
     {
-      "elementId": "menu_pathology",
-      "childMenus": []
-    },
-    {
-      "elementId": "menu_immunochem",
-      "childMenus": []
-    },
-    {
-      "elementId": "menu_cytology",
-      "childMenus": []
-    },
-    {
       "elementId": "menu_results",
       "childMenus": [
         {
@@ -172,6 +147,10 @@
         },
         {
           "elementId": "menu_results_status",
+          "childMenus": []
+        },
+         {
+          "elementId": "order_programmes",
           "childMenus": []
         },
         {
@@ -482,23 +461,6 @@
     {
       "elementId": "menu_administration",
       "childMenus": []
-    },
-    {
-      "elementId": "menu_billing",
-      "childMenus": []
-    },
-    {
-      "elementId": "menu_aliquot",
-      "childMenus": []
-    },
-    {
-      "elementId": "menu_inventory",
-      "childMenus": [
-        {
-          "elementId": "menu_inventory_management",
-          "childMenus": []
-        }
-      ]
     },
     {
       "elementId": "menu_help",
