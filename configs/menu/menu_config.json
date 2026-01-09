@@ -12,27 +12,6 @@
           "childMenus": []
         },
         {
-          "elementId": "menu_sample_create",
-          "childMenus": [
-            {
-              "elementId": "menu_sample_create_initial",
-              "childMenus": []
-            },
-            {
-              "elementId": "menu_sample_create_double",
-              "childMenus": []
-            },
-            {
-              "elementId": "menu_sample_consult",
-              "childMenus": []
-            },
-            {
-              "elementId": "menu_study_sample_eorder",
-              "childMenus": []
-            }
-          ]
-        },
-        {
           "elementId": "menu_sample_edit",
           "childMenus": []
         },
@@ -62,37 +41,7 @@
           "childMenus": []
         },
         {
-          "elementId": "menu_patient_create",
-          "childMenus": [
-            {
-              "elementId": "menu_patient_create_initial",
-              "childMenus": []
-            },
-            {
-              "elementId": "menu_patient_create_double",
-              "childMenus": []
-            },
-            {
-              "elementId": "menu_patient_edit",
-              "childMenus": []
-            },
-            {
-              "elementId": "menu_patient_consult",
-              "childMenus": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "elementId": "menu_storage",
-      "childMenus": [
-        {
-          "elementId": "menu_storage_management",
-          "childMenus": []
-        },
-        {
-          "elementId": "menu_freezer_monitoring",
+          "elementId": "menu_patient_merge",
           "childMenus": []
         }
       ]
@@ -136,18 +85,6 @@
       ]
     },
     {
-      "elementId": "menu_pathology",
-      "childMenus": []
-    },
-    {
-      "elementId": "menu_immunochem",
-      "childMenus": []
-    },
-    {
-      "elementId": "menu_cytology",
-      "childMenus": []
-    },
-    {
       "elementId": "menu_results",
       "childMenus": [
         {
@@ -174,6 +111,10 @@
           "elementId": "menu_results_status",
           "childMenus": []
         },
+         {
+          "elementId": "order_programmes",
+          "childMenus": []
+        },
         {
           "elementId": "menu_results_analyzer",
           "childMenus": [
@@ -195,40 +136,6 @@
         {
           "elementId": "menu_resultvalidation_routine",
           "childMenus": []
-        },
-        {
-          "elementId": "menu_resultvalidation_study",
-          "childMenus": [
-            {
-              "elementId": "menu_resultvalidation_immunology",
-              "childMenus": []
-            },
-            {
-              "elementId": "menu_resultvalidation_biochemistry",
-              "childMenus": []
-            },
-            {
-              "elementId": "menu_resultvalidation_serology",
-              "childMenus": []
-            },
-            {
-              "elementId": "menu_resultvalidation_virology",
-              "childMenus": [
-                {
-                  "elementId": "menu_resultvalidation_dnapcr",
-                  "childMenus": []
-                },
-                {
-                  "elementId": "menu_resultvalidation_viralload",
-                  "childMenus": []
-                },
-                {
-                  "elementId": "menu_resultvalidation_genotyping",
-                  "childMenus": []
-                }
-              ]
-            }
-          ]
         },
         {
           "elementId": "menu_accession_validation",
@@ -482,23 +389,6 @@
     {
       "elementId": "menu_administration",
       "childMenus": []
-    },
-    {
-      "elementId": "menu_billing",
-      "childMenus": []
-    },
-    {
-      "elementId": "menu_aliquot",
-      "childMenus": []
-    },
-    {
-      "elementId": "menu_inventory",
-      "childMenus": [
-        {
-          "elementId": "menu_inventory_management",
-          "childMenus": []
-        }
-      ]
     },
     {
       "elementId": "menu_help",
